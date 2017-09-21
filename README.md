@@ -7,3 +7,7 @@ A portfolio tutorial implementing AWS &amp; React.
 Brew
 Git and github
 SSH
+HTML
+CSS
+Font Awesome
+Google Fonts
