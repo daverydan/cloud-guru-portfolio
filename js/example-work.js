@@ -39,3 +39,4 @@ class ExampleWorkProject extends React.Component {
 }
 
 export default ExampleWork;
+export { ExampleWorkProject };
